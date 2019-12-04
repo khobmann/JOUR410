@@ -145,9 +145,9 @@ a.text:hover, a.text:active {
    /*-----animated welcome-----*/
 		.centered {
 max-width: 80%;
-              font-size: 10px;
+              
   font-weight: 90;
-  font-size: 7px;
+  font-size: 6px;
 text-align: center;
 padding-bottom: 20;
 }
